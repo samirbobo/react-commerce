@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-commerce/static/css/main.7586f0ea.css",
-    "main.js": "/react-commerce/static/js/main.cce6ce65.js",
+    "main.js": "/react-commerce/static/js/main.3fce4d37.js",
     "static/js/787.9036890d.chunk.js": "/react-commerce/static/js/787.9036890d.chunk.js",
     "static/media/artem-beliaikin-UdQt3FT6rxM-unsplash.jpg": "/react-commerce/static/media/artem-beliaikin-UdQt3FT6rxM-unsplash.09d6d54072822166c292.jpg",
     "index.html": "/react-commerce/index.html",
     "main.7586f0ea.css.map": "/react-commerce/static/css/main.7586f0ea.css.map",
-    "main.cce6ce65.js.map": "/react-commerce/static/js/main.cce6ce65.js.map",
+    "main.3fce4d37.js.map": "/react-commerce/static/js/main.3fce4d37.js.map",
     "787.9036890d.chunk.js.map": "/react-commerce/static/js/787.9036890d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7586f0ea.css",
-    "static/js/main.cce6ce65.js"
+    "static/js/main.3fce4d37.js"
   ]
 }
